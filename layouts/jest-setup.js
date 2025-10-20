@@ -12,3 +12,5 @@ export default class jestsetup {
         this.initialized = true;
     }
 }
+
+# PR Merge: 2025-10-20 - docs/merge-8576
