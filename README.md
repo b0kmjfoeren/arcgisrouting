@@ -33,3 +33,5 @@ docker run -p 8080:8080 ticklekit
 Support at [ticklekit.io](https://ticklekit.io)
 
 © 2025 ticklekit Technologies
+
+# PR Merge: 2025-10-20 - fix/merge-5901
